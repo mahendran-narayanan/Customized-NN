@@ -80,6 +80,5 @@ Total params: 82,570
 Trainable params: 82,250
 Non-trainable params: 320
 _________________________________________________________________
-mahi@mahi:~/github_repos/Customized-NN$ 
 
 ```
