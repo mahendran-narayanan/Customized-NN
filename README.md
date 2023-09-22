@@ -19,7 +19,7 @@ optional arguments:
 To run : 
 
 ```
-python3 main.py -n 5
+python3 main.py -inputsize 224 -n 5 -classes 10
 ```
 
 Output:
